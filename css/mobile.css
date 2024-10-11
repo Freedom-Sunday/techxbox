@@ -20,6 +20,9 @@
 
     main .hero2{
         width: 100%;
+        height: 25em;
+        display: none;
+
     }
 
     .first-section .child-a{
