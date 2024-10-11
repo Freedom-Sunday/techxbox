@@ -1,0 +1,104 @@
+@media only screen and (max-width: 400px){
+    .nav1 a{
+        font-size: 130%;
+    }
+
+    #navlist ul{
+        margin-right: 5%;
+    }
+
+    main .hero1{
+        width: 100%;
+        text-align: center;
+        height: 18em;
+    }
+
+    .hero1a{
+        width: 100%;
+        height: 100%;
+    }
+
+    main .hero2{
+        width: 100%;
+    }
+
+    .first-section .child-a{
+        width: 100%;
+        height: 15em;
+    }
+
+    .first-section .child-b{
+        width: 100%;
+        height: 15em;
+    }
+
+    .intro-con{
+        margin: 1em 0;
+    }
+    .intro-con div{
+        width: 90%;
+        height: 15em;
+        margin: 1em 0;
+    }
+
+    .intro-con .intro-child-a p{
+        font-size: 80%;
+        margin-top: 4%;
+    }
+    
+    .second-section-items div{
+    height: 19em;
+    width: 100%;
+    /* background-color: limegreen; */
+    /* border: solid 1px goldenrod; */
+    margin: 3px;
+    margin-bottom: 5%;
+    }
+
+    .second-section-items div a #floating-txt{
+        font-size: 90%;
+    }
+    
+
+    
+.third-section-items div{
+    height: 15em;
+    width: 95%;
+    /* background-color: #0500FF; */
+    /* border: solid 1px yellow; */
+    margin: 3px;
+    margin-bottom: 5%;
+}
+
+
+.third-section-items div a span{
+    background-color: whitesmoke;
+}
+
+
+.fourth-section-items .test{
+    height: 15em;
+    width: 90%;
+    /* background-color: #0500FF;
+    border: solid 1px red; */
+    margin: 1%;
+}
+
+
+.footer-items .item1, .item2{
+    height: 2em;
+    /* background-color: burlywood; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-items: center;
+    width: 95%;
+    /* border: solid 1px red; */
+}
+
+.footer-items .item2 p{
+    display: flex;
+    justify-content: space-around;
+    width: 70%;
+}
+}
